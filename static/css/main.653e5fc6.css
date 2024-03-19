@@ -1,0 +1,2 @@
+.movies-container,.show-container{display:flex;flex-wrap:wrap}.card{transition:all .3s;&:hover{transform:scale(1.1);transition:all .3s}}.movie-container,.show-container{grid-row-gap:50px;display:grid;grid-template-columns:repeat(auto-fill,minmax(400px,1fr));row-gap:50px}
+/*# sourceMappingURL=main.653e5fc6.css.map*/

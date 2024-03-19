@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Nandhini6132/movie-rating-app.git/static/css/main.653e5fc6.css",
+    "main.js": "/Nandhini6132/movie-rating-app.git/static/js/main.21b866fa.js",
+    "index.html": "/Nandhini6132/movie-rating-app.git/index.html",
+    "main.653e5fc6.css.map": "/Nandhini6132/movie-rating-app.git/static/css/main.653e5fc6.css.map",
+    "main.21b866fa.js.map": "/Nandhini6132/movie-rating-app.git/static/js/main.21b866fa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.653e5fc6.css",
+    "static/js/main.21b866fa.js"
+  ]
+}
