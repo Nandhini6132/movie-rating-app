@@ -1,0 +1,5 @@
+@import url(../common/colors.css);
+
+h3{
+    color: var(--sec-color);
+}
